@@ -1,4 +1,4 @@
-This Repo contains all materials which used in teaching Level 1 Session . AUG is The first student activity for Bioinformatics in Egypt , AUG is a student activity club specialized in delivering scientific content in the field of Bioinformatics for the students of The Faculty Of Computer & Information Sciences, Ain Shams University, Cairo, Egypt.
-
-
-
+# <a href="https://www.facebook.com/augbioinfo">**AUG**</a> Problem-Solving 22-23
+## This repo contains the teaching material used during the program sessions
+> ## <a href="https://www.facebook.com/augbioinfo">*AUG*</a> is a student activity specialized in delivering scientific content in the field of Bioinformatics for the students of The Faculty Of Computer & Information Science, Ain Shams University, Cairo, Egypt.
+    Season(October 2022)
